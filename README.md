@@ -20,13 +20,13 @@
 3. Design APIs, to help people not need to interact with database directly, they can simply call the API to get the result they want.
 
 ## References
-https://www.jetbrains.com/pycharm/download/#section=mac
-https://www.w3schools.com/mysql/
-https://dev.mysql.com/doc/connector-python/en/connector-python-example-connecting.html
-https://brew.sh/
-https://stackoverflow.com/questions/4359131/brew-install-mysql-on-macos
-https://realpython.com/python3-object-oriented-programming/
-https://realpython.com/python3-object-oriented-programming/
+1. https://www.jetbrains.com/pycharm/download/#section=mac
+2. https://www.w3schools.com/mysql/
+3. https://dev.mysql.com/doc/connector-python/en/connector-python-example-connecting.html
+4. https://brew.sh/
+5. https://stackoverflow.com/questions/4359131/brew-install-mysql-on-macos
+6. https://realpython.com/python3-object-oriented-programming/
+7. https://realpython.com/python3-object-oriented-programming/
 ##### Please notice: a good programmer can know every thing when he/she has the Internet access, please go to search anything you want to know by Google.
 
 ## Timeline
