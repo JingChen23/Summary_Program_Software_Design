@@ -1,11 +1,11 @@
 # Summer program: Software design - candidate system
 
-##### The aim of this project is to let a high school student to get the first expericen of designing a software. Python is the best language to do the proof of concept.
-##### This is a real world problem. As a company, we need to interview the candidates, we want the records of the candidates can be stored into a database. And we want some Python APIs to help us get the information of the candidates from different perspective.
+##### The aim of this project is to let a high school student to get the first expericece of designing a software. Python is the best language to do the proof of concept, and to do prototyping.
+##### This is a real world problem. As a company, we need to interview the candidates at all times, we want the records of the candidates can be stored into a database. And we want some Python APIs to help us get the information of the candidates.
 #### Example requirements for Python API:
-1. Store a canditate's information, including but not limited to: name, sex, birthdate, education, skill sets, the score we rank for each candidate, into the database.
+1. Store a canditate's information, including but not limited to: id, name, sex, birthdate, education, skill sets, the score we rank for each candidate, into the database.
 2. Provide an API to let us get the full list of all the candidates.
-3. Provide an API to let us get the top n highest scorers.
+3. Provide an API to let us get the top N highest scorers.
 4. Provide an API to let us fetch the information of one candidate by the name.
 
 ## Learning Goals
@@ -15,7 +15,7 @@
 4. Learn how to do object oriented software design.
 
 ## Expected Result
-1. Design the schema of a database table, and apply the reasonable datatype for each variable.
+1. Design the schema of a database table, and apply the reasonable datatype for each field.
 2. Design Python class which could be the data object, to help load the information we fetch from the database.
 3. Design APIs, to help people not need to interact with database directly, they can simply call the API to get the result they want.
 
