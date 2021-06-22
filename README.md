@@ -27,10 +27,12 @@
 5. https://stackoverflow.com/questions/4359131/brew-install-mysql-on-macos
 6. https://realpython.com/python3-object-oriented-programming/
 7. https://realpython.com/python3-object-oriented-programming/
+8. https://www.djangoproject.com/
+9. https://pythonprogramming.net/web-development-tutorials/
 ##### Please notice: a good programmer can know every thing when he/she has the Internet access, please go to search anything you want to know by Google.
 
 ## Timeline
-#### Week1: Install the python IDE, mysql on the macbook, learn the basic concept of object-oriented programming.
-#### Week2: Learn the basic SQL operations, create the table on the database, with a well-designed schema.
-#### Week3: Figure out how to load the data we fetch from the database to an Python object, how to connect the mysql database by Python.
-#### Week4: Implement the APIs mentioned in the Requirements above.
+#### Week1: Install the python IDE, mysql on the macbook, learn the basic concept of object-oriented programming. Learn the basic SQL operations, create the table on the database, with a well-designed schema. Think about what should be the attributes of a candiate, if you are the company owner who need this candidate system.
+#### Week2: Figure out how to load the data we fetch from the database to an Python object, how to connect the mysql database by Python. Create necessary classes to acheive the goal.
+#### Week3: Finish the API implementation, explore the Django framework and figure out how to use to make things easier.
+#### Week4: Learn about UI development, how to write simple UI code to call the API through the Django framework, to make the whole software work from end to end?
