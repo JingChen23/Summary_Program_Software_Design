@@ -31,7 +31,7 @@
 ##### Please notice: a good programmer can know everything when he/she has the Internet access, please go to search anything you want to know by Google.
 
 ## Timeline
-#### Week1: Install the python IDE, mysql on the macbook, learn the basic concept of object-oriented programming. Learn the basic SQL operations, create the table on the database, with a well-designed schema. Think about what should be the attributes of a candiate, if you are the designer of a soccer player database.
+#### Week1: Install the python IDE, mysql on the macbook, learn the basic concept of object-oriented programming. Learn the basic SQL operations, create the table on the database, with a well-designed schema. Think about what should be the attributes of a soccer player, if you are the designer of a soccer player database.
 #### Week2: Figure out how to load the data we fetch from the database to an Python object, how to connect the mysql database by Python. Create necessary classes to acheive the goal.
 #### Week3: Finish the API implementation, explore the Django framework and figure out how to use it to make the backend development easier.
 #### Week4: Learn about UI development, how to write simple UI code to call the API through the Django framework, to make the whole software work from end to end?
