@@ -1,18 +1,17 @@
-# Summer program: Software design - candidate system
+# Summer program: Software design - Soccer game information system
 
 ##### The aim of this project is to let a high school student to get the first expericece of designing a software. Python is the best language to do the proof of concept, and to do prototyping.
-##### This is a real world problem. As a company, we need to interview the candidates at all times, we want the records of the candidates can be stored into a database. And we want some Python APIs to help us get the information of the candidates.
+##### This is a real world problem. For the soccer games like FIFA or PES, we need to be able to get the soccer player information, the club information and the league information.
 #### Example requirements for Python API:
-1. Store a canditate's information, including but not limited to: id, name, sex, birthdate, education, skill sets, the score we rank for each candidate, into the database.
-2. Provide an API to let us get the full list of all the candidates.
-3. Provide an API to let us get the top N highest scorers.
-4. Provide an API to let us fetch the information of one candidate by the name.
+1. Support inserting, deleting, querying and modificatoion the information of a soccer player, a club or a league.
+2. Support fetching the information by some kind of filters.
 
 ## Learning Goals
 1. Learn the notion of API.
 2. Learn the basic concept of a database, and the basic knowledge of SQL.
 3. Learn how to connect a database by Python.
 4. Learn how to do object oriented software design.
+6. [Bonus] Simple UI design and implementation.
 
 ## Expected Result
 1. Design the schema of a database table, and apply the reasonable datatype for each field.
@@ -29,10 +28,10 @@
 7. https://realpython.com/python3-object-oriented-programming/
 8. https://www.djangoproject.com/
 9. https://pythonprogramming.net/web-development-tutorials/
-##### Please notice: a good programmer can know every thing when he/she has the Internet access, please go to search anything you want to know by Google.
+##### Please notice: a good programmer can know everything when he/she has the Internet access, please go to search anything you want to know by Google.
 
 ## Timeline
-#### Week1: Install the python IDE, mysql on the macbook, learn the basic concept of object-oriented programming. Learn the basic SQL operations, create the table on the database, with a well-designed schema. Think about what should be the attributes of a candiate, if you are the company owner who need this candidate system.
+#### Week1: Install the python IDE, mysql on the macbook, learn the basic concept of object-oriented programming. Learn the basic SQL operations, create the table on the database, with a well-designed schema. Think about what should be the attributes of a candiate, if you are the designer of a soccer player database.
 #### Week2: Figure out how to load the data we fetch from the database to an Python object, how to connect the mysql database by Python. Create necessary classes to acheive the goal.
-#### Week3: Finish the API implementation, explore the Django framework and figure out how to use to make things easier.
+#### Week3: Finish the API implementation, explore the Django framework and figure out how to use it to make the backend development easier.
 #### Week4: Learn about UI development, how to write simple UI code to call the API through the Django framework, to make the whole software work from end to end?
